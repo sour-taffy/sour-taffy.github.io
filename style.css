@@ -32,6 +32,12 @@
     border-bottom: 1px solid #e5e7e9;
     max-width: 800px;
 }
+.experience span {
+    display: block;
+    color: #1d85c1;
+    font-weight: bold;
+    
+}
 .experience ul{
     padding-left: 20px
 }
