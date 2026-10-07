@@ -7,8 +7,15 @@ body {
     gap: 10px;
 }
 .top{
+    padding: 100px 20px 100px;
     text-align: center;
     background: linear-gradient(90deg, #dcf1fe, #ffffff);
+}
+.jobtitle{
+    font-weight: bold;
+    color: #1d85c1;
+    font-size: 1;
+    
 }
 
 .button {
