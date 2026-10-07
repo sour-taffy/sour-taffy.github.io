@@ -10,7 +10,7 @@
     background: linear-gradient(180deg, #dcf1fe, #ffffff);
 }
 .jobtitle{
-    margin: 0 0 10px
+    margin: 0 0 10px;
     font-weight: bold;
     color: #1d85c1;
     font-size: 12px;
@@ -26,6 +26,8 @@
 }
 
 .experience{
+    margin: 0 auto;
+    text-align: left;
     padding: 20px 0;
     border-bottom: 1px solid #e5e7e9;
 }
