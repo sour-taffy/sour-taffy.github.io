@@ -35,6 +35,9 @@
 .experience ul{
     padding-left: 20px
 }
+.experience h3{
+    text-align: center;
+}
 .experience li{
     margin-bottom: 8px
 }
