@@ -1,7 +1,11 @@
 body {
     text-align: center;
 }
-
+button-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
 .button {
   background-color: #70c6ff;
   border: none;
