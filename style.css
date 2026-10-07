@@ -1,7 +1,7 @@
 body {
     text-align: center;
 }
-button-row {
+.button-row {
     display: flex;
     justify-content: center;
     gap: 10px;
