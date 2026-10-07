@@ -1,6 +1,4 @@
-body {
-    text-align: center;
-}
+
 .button-row {
     display: flex;
     justify-content: center;
@@ -26,6 +24,12 @@ body {
 .experience{
     padding: 20px 0;
     border-bottom: 1px solid #e5e7e9;
+}
+.experience ul{
+    padding-left: 20px
+}
+.experience li{
+    margin-bottom: 8px
 }
 
 
