@@ -6,6 +6,10 @@ body {
     justify-content: center;
     gap: 10px;
 }
+.top{
+    text-align: center;
+    background: linear-gradient(90deg, #dcf1fe, #ffffff);
+}
 .button {
   background-color: #70c6ff;
   border: none;
